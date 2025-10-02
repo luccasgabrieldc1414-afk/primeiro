@@ -1,0 +1,9 @@
+.love::{
+    content: ´❤`;
+    font-family: ´te Amo`;
+    position: absolute;
+    tranform: scalex(-1);
+    height: 100%;
+    backgraund-color: black;
+    color: white;
+}
